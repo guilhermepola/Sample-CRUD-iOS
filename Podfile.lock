@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (1.2.2)
+  - BProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.2)
+  - BProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 11a6022f5089887d92ffb5a3014c97a0a915ab98
+  BProgressHUD: 90f2a4b74e0b4310968a249087faf3711fc641e2
+
+COCOAPODS: 0.37.2

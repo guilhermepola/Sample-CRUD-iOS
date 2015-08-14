@@ -1,0 +1,6 @@
+framework module BProgressHUD {
+  umbrella header "Pods-BProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
